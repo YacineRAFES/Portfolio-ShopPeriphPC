@@ -1,0 +1,6 @@
+.offcanvas {
+    --bs-offcanvas-width: 700px;
+}
+.hoverrecherche:hover{
+    background: #0d6dfd5b;
+}
